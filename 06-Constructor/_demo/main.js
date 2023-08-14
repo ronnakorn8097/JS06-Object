@@ -1,6 +1,6 @@
 const log = console.log;
 
-log('Constructor Fy=unction');
+log('Constructor Function');
 
 const dev1 = {
     name: 'John',
